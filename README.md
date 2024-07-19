@@ -1,2 +1,3 @@
 # MarketVision
-This is a Machine Learning project, here we train our model to predict stock prices of the tesla stock.
+This is a Machine Learning project, here we initially import a dataset, reduce the size of the dataset such that We don't have to deal with unnecessary data. Next is, We handle null values by either completely removing such records or replacing null values with some valid value. Now is the step, where We actually start to move towards calculaions & derivations. We interpret the current dataset and try to interpret some information from it, in this phase there can also be addition of some columns which seem to be of use to find some trend/pattern and then use these trends for the prediction of next ones.
+
