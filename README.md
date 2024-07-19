@@ -1,2 +1,2 @@
 # MarketVision
-This is a Machine Learning project, here we thrain our model to prdictstock prices of  the tesla stock.
+This is a Machine Learning project, here we train our model to predict stock prices of the tesla stock.
